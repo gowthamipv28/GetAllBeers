@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Beers" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-03-22T05:20:06" hostname="Gowthamis-MacBook-Pro.local" time="5.769">
+  <properties/>
+  <testcase name="GetAllBeers" classname="Beers" time="3.373"/>
+  <testcase name="GetBeersBrewedBeforeCertainDate" classname="Beers" time="0.728"/>
+  <testcase name="getAllBearWithConditional_abv" classname="Beers" time="0.839"/>
+  <testcase name="getAllBearWithPagination" classname="Beers" time="0.811"/>
+  <system-out><![CDATA[25
+09/2007
+04/2008
+09/2013
+02/2011
+05/2013
+07/2012
+03/2013
+03/2010
+01/2011
+04/2013
+11/2009
+02/2010
+01/2012
+01/2012
+04/2011
+06/2013
+03/2011
+04/2013
+12/2008
+12/2007
+06/2011
+10/2008
+02/2010
+05/2013
+02/2012
+25
+6.3
+7.2
+11.2
+12.5
+7.5
+7.3
+14.5
+6.1
+11.2
+8.2
+10.27
+12.5
+8.0
+55.0
+15.0
+6.7
+7.8
+6.7
+12.5
+7.5
+10.5
+12.5
+6.3
+7.2
+8.2
+5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
